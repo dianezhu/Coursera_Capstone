@@ -1,0 +1,134 @@
+﻿customer,drink,category,delivery_location,time ,Gender,Age,Annual_Income
+Mr Dryden,Latte,Coffee,I9,2019-08-15 07:36:47,Male,19,15000
+Jane Olivero,Flat White,Coffee,H Block Admin,2019-08-15 07:36:20,Male,21,15000
+Alisha Watson,Ever Green,Smoothie,I19 (next to Drama office!),2019-08-15 07:33:56,Female,20,16000
+Elena,Berry Bliss,Smoothie,I18A,2019-08-15 07:06:30,Female,23,16000
+Tetias Goh,Chocolate Fix,Smoothie,Music Office,2019-08-15 06:50:58,Female,31,17000
+Maree Bowen,Green Tea,Tea Selection,I7,2019-08-15 06:49:31,Female,22,17000
+Trina,Latte,Coffee,Hive 3 or G1,2019-08-15 06:38:14,Female,35,18000
+Kathy Dyer,Chai,Tea Selection,I19,2019-08-15 06:36:16,Female,23,18000
+Chelsey Eunson,Latte,Coffee,I20,2019-08-15 06:34:35,Male,64,19000
+Sue Patterson,Flat White,Coffee,Music Office,2019-08-15 06:33:43,Female,30,19000
+Steve Roberts,Flat White,Coffee,K1/7,2019-08-15 06:33:19,Male,67,19000
+Ruan ,Flat White,Coffee,I block staff room,2019-08-15 06:28:50,Female,35,19000
+Mrs Anderson-Morse,Flat White,Coffee,K2,2019-08-15 06:26:30,Female,58,20000
+Mr Hedstrom,Flat White,Coffee,K11,2019-08-15 06:16:53,Female,24,20000
+Rod Frohmuller,Flat White,Coffee,K block staffroom,2019-08-15 06:06:22,Male,37,20000
+Mrs T,Chai,Tea Selection,K8,2019-08-15 06:02:26,Male,22,20000
+Clare Hannaway,Berry Bliss,Smoothie,Prac Room 1 music hallway across from music office (piano room),2019-08-15 05:56:40,Female,35,21000
+Petalia Humphreys,Cappuccino,Coffee,K11,2019-08-15 05:55:23,Male,20,21000
+Rob Kelly,Flat White,Coffee,K7 Period 2,2019-08-15 05:52:29,Male,52,23000
+Dr Bonar,Long Black,Coffee,Lower floor of Hub,2019-08-15 05:49:46,Female,35,23000
+Mr Bart,Ever Green,Smoothie,i1,2019-08-15 05:48:26,Male,35,24000
+Troy Bates,Latte,Coffee,Hive 1,2019-08-15 05:34:02,Male,25,24000
+Troy Bates,Flat White,Coffee,K Block Staff Room,2019-08-15 05:31:18,Female,46,25000
+Kirsten Solti,Long Black,Coffee,P1 - HV2    P2 - W2,2019-08-15 05:24:05,Male,31,25000
+Jonathan Harding,Latte,Coffee,L1 in Iblock staff L2 Hive 1,2019-08-15 05:19:54,Female,54,28000
+hayley rogerson,Cappuccino,Coffee,G11,2019-08-08 07:51:11,Male,29,28000
+Cameron Piper,Berry Bliss,Smoothie,H Block,2019-08-08 07:47:08,Female,45,28000
+Ben McCormack,Berry Bliss,Smoothie,ICT Office,2019-08-08 07:43:38,Male,35,28000
+Brad Spring/ Kylie Mosses,Latte,Coffee,G block,2019-08-08 07:43:28,Female,40,29000
+Barb Lodge,Ever Green,Smoothie,Learning Hub,2019-08-08 07:41:53,Female,23,29000
+Lachlan Peterson,Long Black,Coffee,ICT Office,2019-08-08 07:41:32,Male,60,30000
+Oliver Patten,Flat White,Coffee,G block staff room,2019-08-08 07:41:12,Female,21,30000
+,Ever Green,Smoothie,,2019-08-08 07:39:28,Male,53,33000
+Bree Loli,Flat White,Coffee,G Block,2019-08-08 07:39:02,Male,18,33000
+Kerrie Dendle,Flat White,Coffee,G block staffroom ,2019-08-08 07:38:16,Female,49,33000
+Alannah Hopper,Flat White,Coffee,G Block,2019-08-08 07:37:58,Female,21,33000
+Harry Comiskey,Chocolate Fix,Smoothie,DT room,2019-08-08 07:34:33,Female,42,34000
+Joel Tomkins,Latte,Coffee,ICT Office,2019-08-08 07:30:40,Female,30,34000
+Ronan Collins,Flat White,Coffee,IT Office,2019-08-08 07:29:20,Female,36,37000
+Maria Korte,Latte,Coffee,ICT Office,2019-08-08 07:29:08,Female,20,37000
+Anthony Jenkins,Cappuccino,Coffee,Learning Hub - ICT Services,2019-08-08 07:28:04,Female,65,38000
+Amanda Bentley,Ever Green,Smoothie,Ink Spot / Hub,2019-08-08 07:24:23,Male,24,38000
+Sheridan Sugden,Berry Bliss,Smoothie,Futures Room,2019-08-08 07:24:14,Male,48,39000
+Lyn,Flat White,Coffee,Hub,2019-08-08 07:21:58,Female,31,39000
+Sonja,Ever Green,Smoothie,Secondary Office,2019-08-08 07:10:33,Female,49,39000
+josh bennett,Berry Bliss,Smoothie,design tech room,2019-08-08 07:10:32,Female,24,39000
+Jane Olivero,Flat White,Coffee,H Block Admin,2019-08-08 07:09:17,Female,50,40000
+Will Wang,Berry Bliss,Smoothie,I Block language ,2019-08-08 07:01:52,Female,27,40000
+Amanda,Chai,Tea Selection,K8,2019-08-08 06:59:42,Female,29,40000
+Harry Comiskey,Chocolate Fix,Smoothie,DT room,2019-08-08 06:53:51,Female,31,40000
+Alistair Hogg,Cappuccino,Coffee,K5,2019-08-08 06:52:20,Female,49,42000
+Murdoch,Berry Bliss,Smoothie,Mayfield,2019-08-08 06:52:02,Male,33,42000
+tiegan,Berry Bliss,Smoothie,,2019-08-08 06:51:59,Female,31,43000
+josh bennett,Berry Bliss,Smoothie,design tech room,2019-08-08 06:51:15,Male,59,43000
+Declan Herbert,Berry Bliss,Smoothie,K5,2019-08-08 06:50:35,Female,50,43000
+Shona Anderson-Morse,Flat White,Coffee,K Block staffroom,2019-08-08 06:44:21,Male,47,43000
+Rod Frohmuller,Flat White,Coffee,K Block staffroom,2019-08-08 06:43:50,Female,51,44000
+Rob Kelly,Flat White,Coffee,K7,2019-08-08 06:39:39,Male,69,44000
+Troy Bates,Latte,Coffee,K Block Staff Room,2019-07-18 07:29:17,Female,27,46000
+Mr McClellen,Berry Bliss,Smoothie,K6,2019-07-18 07:21:01,Male,53,46000
+Mrs Anderson- Morse,Berry Bliss,Smoothie,k2,2019-07-18 07:17:05,Male,70,46000
+Mr Frohmuller,Flat White,Coffee,k staffroom,2019-07-18 07:15:35,Male,19,46000
+Mr Bourke,Berry Bliss,Smoothie,k5,2019-07-18 07:14:38,Female,67,47000
+Murdoch,Berry Bliss,Smoothie,k5,2019-07-18 07:01:46,Female,54,47000
+Ali,Berry Bliss,Smoothie,k5,2019-07-18 07:00:34,Male,63,48000
+tiegan M,Cappuccino,Coffee,k5,2019-07-18 06:58:55,Male,18,48000
+Tom Jones,Latte,Coffee,F Block,2019-07-17 13:20:46,Female,43,48000
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
